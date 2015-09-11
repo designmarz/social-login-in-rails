@@ -71,7 +71,7 @@ group :development, :test do
   #gem 'lol_dba'
   #gem 'mailcatcher'
   #gem 'meta_request','0.2.1'
-  #gem 'pry'
+  gem 'pry'
   #gem 'pry-doc'
   #gem 'rack-mini-profiler'
   #gem 'rack-webconsole'
